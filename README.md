@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, bowling, golf, traveling with friends
 - 🌱 I’m currently working on an Augmented Reality app for Engineering concepts and principles  
 - 📫 How to reach me:  
-Email - joshbuscus228@gmail.com
+Email - joshbuscus228@gmail.com  
 Discord - Ohhhh I Missed#8397
 
 <!---
