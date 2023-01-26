@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh Ross
-- 👀 I’m interested in coding, bowling, golf, traveling with friends
+- 👀 I’m interested in coding, bowling, golf, guitar, piano, and traveling with friends
 - 🌱 I’m currently working on an Augmented Reality app for Engineering concepts and principles  
 - 📫 How to reach me:  
 Email - joshbuscus228@gmail.com  
