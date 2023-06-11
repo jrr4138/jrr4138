@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Josh Ross
-- 👀 I’m interested in coding, bowling, golf, guitar, piano, and traveling with friends
-- 🌱 I’m currently working on an Augmented Reality app for Engineering concepts and principles  
+- 👋 Hi, I’m Josh Ross!
+- 👀 I’m interested in programming, golf, guitar, piano, and traveling with friends.
+- 🌱 I am currently working towards learning and understanding .NET and Angular.
 - 📫 How to reach me:  
 Email - joshbuscus228@gmail.com  
 Discord - MongolianBeef#3581
