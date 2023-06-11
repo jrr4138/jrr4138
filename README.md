@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on an Augmented Reality app for Engineering concepts and principles  
 - 📫 How to reach me:  
 Email - joshbuscus228@gmail.com  
-Discord - patrickismyreligion#3581
+Discord - MongolianBeef#3581
 
 <!---
 jrr4138/jrr4138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
